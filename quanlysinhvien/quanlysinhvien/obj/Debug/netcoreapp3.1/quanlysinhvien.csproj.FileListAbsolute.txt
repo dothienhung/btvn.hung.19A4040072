@@ -1,0 +1,13 @@
+D:\C#\quanlysinhvien\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.csprojAssemblyReference.cache
+D:\C#\quanlysinhvien\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.csproj.CoreCompileInputs.cache
+D:\C#\quanlysinhvien\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.AssemblyInfoInputs.cache
+D:\C#\quanlysinhvien\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.AssemblyInfo.cs
+D:\C#\quanlysinhvien\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.exe
+D:\C#\quanlysinhvien\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.deps.json
+D:\C#\quanlysinhvien\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.runtimeconfig.json
+D:\C#\quanlysinhvien\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.runtimeconfig.dev.json
+D:\C#\quanlysinhvien\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.dll
+D:\C#\quanlysinhvien\quanlysinhvien\bin\Debug\netcoreapp3.1\quanlysinhvien.pdb
+D:\C#\quanlysinhvien\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.dll
+D:\C#\quanlysinhvien\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.pdb
+D:\C#\quanlysinhvien\quanlysinhvien\obj\Debug\netcoreapp3.1\quanlysinhvien.genruntimeconfig.cache
