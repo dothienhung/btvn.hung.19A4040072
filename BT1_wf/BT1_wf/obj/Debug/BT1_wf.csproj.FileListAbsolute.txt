@@ -1,0 +1,10 @@
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\bin\Debug\BT1_wf.exe.config
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\bin\Debug\BT1_wf.exe
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\bin\Debug\BT1_wf.pdb
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\obj\Debug\BT1_wf.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\obj\Debug\BT1_wf.Form1.resources
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\obj\Debug\BT1_wf.Properties.Resources.resources
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\obj\Debug\BT1_wf.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\obj\Debug\BT1_wf.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\obj\Debug\BT1_wf.exe
+C:\Users\dell\source\repos\BT1_wf\BT1_wf\obj\Debug\BT1_wf.pdb
